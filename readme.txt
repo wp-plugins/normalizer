@@ -42,8 +42,8 @@ Sorry, but I don't have a clue. Maybe just a little bit.
 
 == Screenshots ==
 
-1. Broken Permalinks
-2. Broken Text in Firefox
+1. Correct transliteration if you enter the word directly
+2. Missing transliteration for copy/pasted word from PDF
 3. Error message from W3C
 
 == Changelog ==
